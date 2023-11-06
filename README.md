@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiceMast3r
 - 👀 I’m interested in Coding, Airplane, Electric train
-- 1st Year Engineering student
+- 2nd Year Engineering student
 
 <!---
 DiceMast3r/DiceMast3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
